@@ -1,0 +1,33 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{cronsystem}prestashop>cronsystem_b193853ef7ac20d3d202a008a699a13d'] = '크론 시스템';
+$_MODULE['<{cronsystem}prestashop>cronsystem_9a28e5ad6df312979a4ade2961582c65'] = '각 페이지 로드 시 실행되는 예약된 작업을 관리합니다.';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_c219087110bdb8dc001d6c3d486a9023'] = 'CronSystem - 작업 추가';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_553d92a24a5888341dc31508936f0631'] = '새 예약 작업';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_4777bbaaa0aebe104606b77947d0e22d'] = '작업 이름';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_def229a191d97d1da6d220762630f47a'] = '작업 경로';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_633042e18dc6606a74a677bd1daa7b1f'] = '예: module/miModulo/miControlador?param1=valor';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_2c90ed4a62f878749f81f17ef86a2ca0'] = '빈도(초)';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_18aedb2e8a526d0d1d5820e63ca7bf78'] = '한 번만 실행하려면 0';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_126e33341703309dae4b149ee27d99f2'] = '초 단위, 매일: 86400, 매주: 604800, 매월: 2592000';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_e26eb5740534ded4bcb028f004a59bcc'] = '한 번만 실행하시겠습니까?';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_bdd207eedff4036f152f54509e9d3e90'] = '예';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_bafd7322c6e97d25b6299b5d6fe8920b'] = '아니오';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_eed2839c1e3e5f7069ed03b2f6d4c6dd'] = '백 오피스';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_0558c4724c1321605189662a0e3f66f6'] = '프론트 오피스';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_c14790c36be3f71530202f2e8a78334e'] = '작업 저장';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_5b58786c0ce11b99f410d7231749419a'] = '유효하지 않은 작업 경로입니다.';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_197dc2cd8007759ef592bdab7fa37032'] = '작업이 성공적으로 등록되었습니다.';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_236512f0f792bbdc8daf7e0c90d281c8'] = '작업을 등록할 수 없습니다.';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_954b589961e06dfb871582b63b6f0c0e'] = 'CronSystem - 예약된 작업';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_b718adec73e04ce3ec720dd11a06a308'] = 'ID';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_4777bbaaa0aebe104606b77947d0e22d'] = '이름';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_67c1a60f1cf45ff01ac5b58b6d1baef1'] = '경로';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_fdcd51979df117ac7dc82b59f183afb6'] = '빈도(초)';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_f13e6a042efe25abad2cdfddf15344cd'] = '상태';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_3397e69cce37e37c8605f57b367d6b33'] = '상태';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_ca49d6ff0b13ddea1e094ce3420b279d'] = '활성화됨';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_93f8407ec3da9ed6da7dac8ec97552f8'] = '비활성화';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_6b0cc53d2e0a8405ace14210a143b9a0'] = '활성화';

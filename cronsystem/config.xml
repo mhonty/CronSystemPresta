@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>cronsystem</name>
+  <displayName>CronSystem</displayName>
+  <version>1.0.0</version>
+  <author>Pedro Montalvo</author>
+  <description>Administra las tareas programadas que se ejecutan en cada carga de página.</description>
+  <tab>administration</tab>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+</module>

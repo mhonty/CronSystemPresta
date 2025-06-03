@@ -1,0 +1,33 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{cronsystem}prestashop>cronsystem_b193853ef7ac20d3d202a008a699a13d'] = '定时任务系统';
+$_MODULE['<{cronsystem}prestashop>cronsystem_9a28e5ad6df312979a4ade2961582c65'] = '管理每次页面加载时执行的计划任务。';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_c219087110bdb8dc001d6c3d486a9023'] = 'CronSystem - 添加任务';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_553d92a24a5888341dc31508936f0631'] = '新建计划任务';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_4777bbaaa0aebe104606b77947d0e22d'] = '新建计划任务';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_def229a191d97d1da6d220762630f47a'] = '任务路径';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_633042e18dc6606a74a677bd1daa7b1f'] = '例如：module/miModulo/miControlador?param1=valor';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_2c90ed4a62f878749f81f17ef86a2ca0'] = '执行频率（秒）';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_18aedb2e8a526d0d1d5820e63ca7bf78'] = '0 表示只执行一次';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_126e33341703309dae4b149ee27d99f2'] = '单位为秒，日：86400，周：604800，月：2592000';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_e26eb5740534ded4bcb028f004a59bcc'] = '仅执行一次？';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_bdd207eedff4036f152f54509e9d3e90'] = '是';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_bafd7322c6e97d25b6299b5d6fe8920b'] = '否';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_eed2839c1e3e5f7069ed03b2f6d4c6dd'] = '后台（Back Office）';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_0558c4724c1321605189662a0e3f66f6'] = '前台（Front Office）';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_c14790c36be3f71530202f2e8a78334e'] = '保存任务';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_5b58786c0ce11b99f410d7231749419a'] = '任务路径无效。';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_197dc2cd8007759ef592bdab7fa37032'] = '任务保存成功。';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_236512f0f792bbdc8daf7e0c90d281c8'] = '任务保存失败。';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_954b589961e06dfb871582b63b6f0c0e'] = 'CronSystem - 计划任务';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_b718adec73e04ce3ec720dd11a06a308'] = '编号';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_4777bbaaa0aebe104606b77947d0e22d'] = '名称';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_67c1a60f1cf45ff01ac5b58b6d1baef1'] = '路径';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_fdcd51979df117ac7dc82b59f183afb6'] = '频率（秒）';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_f13e6a042efe25abad2cdfddf15344cd'] = '状态';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_3397e69cce37e37c8605f57b367d6b33'] = '状态';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_ca49d6ff0b13ddea1e094ce3420b279d'] = '启用';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_93f8407ec3da9ed6da7dac8ec97552f8'] = '停用';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_6b0cc53d2e0a8405ace14210a143b9a0'] = '启用';

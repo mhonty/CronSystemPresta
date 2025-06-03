@@ -1,0 +1,33 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{cronsystem}prestashop>cronsystem_b193853ef7ac20d3d202a008a699a13d'] = 'Cron System';
+$_MODULE['<{cronsystem}prestashop>cronsystem_9a28e5ad6df312979a4ade2961582c65'] = 'Manage scheduled tasks that run on each page load.';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_c219087110bdb8dc001d6c3d486a9023'] = 'CronSystem - Add Task';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_553d92a24a5888341dc31508936f0631'] = 'New scheduled task';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_4777bbaaa0aebe104606b77947d0e22d'] = 'New scheduled task';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_def229a191d97d1da6d220762630f47a'] = 'Task path';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_633042e18dc6606a74a677bd1daa7b1f'] = 'E.g.: module/myModule/myController?param1=value';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_2c90ed4a62f878749f81f17ef86a2ca0'] = 'Frequency (seconds)';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_18aedb2e8a526d0d1d5820e63ca7bf78'] = '0 to execute once';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_126e33341703309dae4b149ee27d99f2'] = 'In seconds, daily: 86400, weekly: 604800, monthly: 2592000';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_e26eb5740534ded4bcb028f004a59bcc'] = 'Single execution?';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_bdd207eedff4036f152f54509e9d3e90'] = 'Yes';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_bafd7322c6e97d25b6299b5d6fe8920b'] = 'No';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_eed2839c1e3e5f7069ed03b2f6d4c6dd'] = 'Back Office';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_0558c4724c1321605189662a0e3f66f6'] = 'Front Office';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_c14790c36be3f71530202f2e8a78334e'] = 'Save task';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_5b58786c0ce11b99f410d7231749419a'] = 'Invalid task path.';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_197dc2cd8007759ef592bdab7fa37032'] = 'Task successfully registered.';
+$_MODULE['<{cronsystem}prestashop>admincronsystemadd_236512f0f792bbdc8daf7e0c90d281c8'] = 'Task could not be registered.';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_954b589961e06dfb871582b63b6f0c0e'] = 'CronSystem - Scheduled Tasks';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_b718adec73e04ce3ec720dd11a06a308'] = 'ID';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_4777bbaaa0aebe104606b77947d0e22d'] = 'Name';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_67c1a60f1cf45ff01ac5b58b6d1baef1'] = 'Path';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_fdcd51979df117ac7dc82b59f183afb6'] = 'Frequency (Sec)';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_f13e6a042efe25abad2cdfddf15344cd'] = 'Status';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_3397e69cce37e37c8605f57b367d6b33'] = 'Status';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_ca49d6ff0b13ddea1e094ce3420b279d'] = 'Active';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_93f8407ec3da9ed6da7dac8ec97552f8'] = 'Disable';
+$_MODULE['<{cronsystem}prestashop>admincronsystemlist_6b0cc53d2e0a8405ace14210a143b9a0'] = 'Enable';
